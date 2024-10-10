@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "59/Zrv/YxFkPG4U7SWkmzmVaDePzSBgSrJT/llXFEqfRaHjZ4ZfI+cXMbVtIlrUvH8RsiCyE3+84bzF/kuUlpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dilshan\\Desktop\\WSO2\\wso2Automate\\Format-Migration-Tool\\ApiTemplateTransformer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dilshan\\.nuget\\packages\\yamldotnet\\16.1.3\\yamldotnet.16.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
